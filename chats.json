@@ -1,0 +1,55 @@
+{
+  "d5a2b78ee8164571a6d0959723c96c17": {
+    "title": "hey",
+    "system": "You are a helpful assistant.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey"
+      },
+      {
+        "role": "assistant",
+        "content": "Hey — what can I help you with today?"
+      }
+    ],
+    "updated": 1792823255.8970346
+  },
+  "63c657b48b6b479a8880426935d5c73d": {
+    "title": "mein hoon eman",
+    "system": "You are a helpful assistant.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "mein hoon eman"
+      },
+      {
+        "role": "assistant",
+        "content": "Hi Eman! Main ChatGPT hoon. Aap kaisay hain?  \nAap kis cheez mein madad chahte hain—study, kaam, writing, ya koi aur baat?"
+      },
+      {
+        "role": "user",
+        "content": "mujai apny goal dhondhny hein"
+      },
+      {
+        "role": "assistant",
+        "content": "Apna goal dhoondhnay ke liye sab se pehle yeh clear karna hota hai ke aapko kis cheez se *energy* milti hai aur aap kis cheez mein *naturally achay* hain. Main aapko 10–15 minute mein direction nikalwanay ke liye kuch short questions poochta/poochti hoon—bas inka jawab de dein:\n\n1) Aap ki umar (approx) aur aap abhi kya kar rahe hain? (school/college/job/ghar)  \n2) Aapko konsi cheezen karna pasand hain? 3 cheezen likhein.  \n3) Konsi cheezen aapko bilkul pasand nahi? 3 cheezen.  \n4) Aap kis cheez mein achay/achi hain? (log kya kehtay hain?)  \n5) Aapko kis tarah ka kaam suit karta hai:  \n   - logon ke saath (teaching/sales/helping)  \n   - computer/tech  \n   - creative (design/writing)  \n   - business/management  \n   - hands-on (craft/field work)  \n6) Aap ki priority kya hai: paisa, passion, stability, ya azadi? (top 2)  \n7) Agar 6 months mein ek skill seekhni ho jo aapki life change kar de—konsi?\n\nAap in 7 questions ke answers bhej dein, main aapke liye:\n- 2–3 suitable goals propose karoon ga/gi  \n- unke liye 30-day practical plan bhi bana doon ga/gi."
+      }
+    ],
+    "updated": 1792824651.8426056
+  },
+  "154a67741e1f445eb59ac8da6f9d8d11": {
+    "title": "kya phouchon tumsy",
+    "system": "You are a helpful assistant.",
+    "messages": [
+      {
+        "role": "user",
+        "content": "kya phouchon tumsy"
+      },
+      {
+        "role": "assistant",
+        "content": "Haan, bilkul. Aap mujhse kuch bhi pooch sakte hain—kis baare mein poochna hai?"
+      }
+    ],
+    "updated": 1792824688.6298437
+  }
+}
